@@ -62,6 +62,6 @@ let g:pymode_run_bind='<C-r>'
 let g:pymode_lint = 1
 let g:pymode_syntax=1
 let g:pymode_python='python'
-
+let g:pymode_rope=0
 " Nerdtree map
 map <C-n> :NERDTreeToggle<CR>
